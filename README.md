@@ -67,7 +67,7 @@ Documents\Rainmeter\Skins
 ### 4. Refresh Rainmeter
 Open Rainmeter and refresh all skins.
 
-## 📅 Google Calendar Setup (Optional)
+## Google Calendar Setup (Optional)
 To enable automatic Google Calendar synchronization:
 
 ### Step 1
@@ -92,7 +92,7 @@ Refresh the Rainmeter skin.
 The calendar widget will now automatically pull events from Google Calendar.
 Do NOT share your secret iCal URL publicly.
 
-## 🎨 Customization
+## Customization
 ### Wallpaper
 Replace: wallpaper.jpg with your own wallpaper.
 
