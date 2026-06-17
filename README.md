@@ -74,10 +74,7 @@ To enable automatic Google Calendar synchronization:
 Open Google Calendar settings.
 
 ### Step 2
-Locate your calendar's:
-```text
-Secret address in iCal format
-```
+Locate your calendar's Secret address in iCal format
 
 ### Step 3
 Open:
@@ -97,11 +94,7 @@ Do NOT share your secret iCal URL publicly.
 
 ## 🎨 Customization
 ### Wallpaper
-Replace:
-```text
-wallpaper.jpg
-```
-with your own wallpaper.
+Replace: wallpaper.jpg with your own wallpaper.
 
 ### Photo Frames
 Replace images inside the polaroid widgets with your own:
